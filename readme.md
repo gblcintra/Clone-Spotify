@@ -1,4 +1,4 @@
-#Criação de site clone Spotify
+## Criação de site clone Spotify
 - utilizando bootstrap
 - site statico
 - Praticando estrutura de grids, 
