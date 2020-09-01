@@ -12,3 +12,5 @@
 - Tabs
 - Overflow
 - Media Queries
+
+<img src="https://github.com/gblcintra/Clone-Spotify/blob/master/imagens/Clone_Spotify.png"/>
